@@ -2,8 +2,11 @@
 id: 6652a2a1-f26b-46a2-857d-cf089b17508d
 title: Writing
 desc: ""
-updated: 1611022227233
+updated: 1613351607294
 created: 1597721519096
+has_collection: true
+sort_by: date
+sort_order: reverse
 ---
 
 # Writing
